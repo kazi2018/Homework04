@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead7ae92-7af6-4347-bcd8-3d9662bfc780" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sortingPackage/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortingPackage/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortingPackage/InsertionSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sortingPackage/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -59,6 +59,7 @@
         <option value="$PROJECT_DIR$/src/sortingPackage/Selection_Sort.java" />
         <option value="$PROJECT_DIR$/src/sortingPackage/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/sortingPackage/PyramidPattern.java" />
+        <option value="$PROJECT_DIR$/src/sortingPackage/InsertionSort.java" />
       </list>
     </option>
   </component>
@@ -101,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545426163710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545426526356" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -179,7 +180,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21229868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sortingPackage/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
